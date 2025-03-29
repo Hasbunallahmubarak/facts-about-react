@@ -22,7 +22,7 @@ Welcome to Facts About React Static Web Application! This is a simple static web
 
 ### Demo
 
-You can view the live demo of the application at [Facts about React]().
+You can view the live demo of the application at [Facts about React](https://react-known-facts.netlify.app/).
 
 ### Technologies Used
 
@@ -66,4 +66,4 @@ For any questions or collaboration, feel free to reach out:
 
 - [Hmabiola website 2](hasbunallahmubarak.github.io/Hmabiola/)
 
-GitHub: Hasbunallahmubarak
+GitHub: [Hasbunallahmubarak](github.com/Hasbunallahmubarak)
